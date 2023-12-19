@@ -1,0 +1,17 @@
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\MegicVilla_Web.exe
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\MegicVilla_Web.dll
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\MegicVilla_Web.deps.json
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\MegicVilla_Web.runtimeconfig.json
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\MegicVilla_Web.pdb
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\AutoMapper.dll
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\MegicVilla_Utility.dll
+D:\DotNet\MegicVilla\MegicVilla_Web\obj\Release\net7.0\PubTmp\Out\MegicVilla_Utility.pdb

@@ -1,0 +1,3 @@
+D:\MagicVilla\MagicVillaMvc\MegicVilla_Utility.dll
+D:\MagicVilla\MagicVillaMvc\MegicVilla_Utility.deps.json
+D:\MagicVilla\MagicVillaMvc\MegicVilla_Utility.pdb

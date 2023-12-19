@@ -1,0 +1,37 @@
+2023-07-05 15:29:05.214 +05:30 [INF] Now listening on: https://localhost:7144
+2023-07-05 15:29:05.250 +05:30 [INF] Now listening on: http://localhost:5192
+2023-07-05 15:29:05.252 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-05 15:29:05.252 +05:30 [INF] Hosting environment: Development
+2023-07-05 15:29:05.252 +05:30 [INF] Content root path: D:\DotNet\MegicVilla\MegicVilla_VillaAPI
+2023-07-05 15:29:06.394 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7144/swagger/index.html - -
+2023-07-05 15:29:06.889 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7144/swagger/index.html - - - 200 - text/html;charset=utf-8 499.6682ms
+2023-07-05 15:29:06.898 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7144/_framework/aspnetcore-browser-refresh.js - -
+2023-07-05 15:29:06.908 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7144/_framework/aspnetcore-browser-refresh.js - - - 200 12008 application/javascript;+charset=utf-8 9.9178ms
+2023-07-05 15:29:06.913 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7144/_vs/browserLink - -
+2023-07-05 15:29:06.989 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7144/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 75.5985ms
+2023-07-05 15:29:07.076 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7144/swagger/v1/swagger.json - -
+2023-07-05 15:29:07.280 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7144/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 203.2954ms
+2023-07-05 15:29:18.953 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7144/api/VillaAPI - -
+2023-07-05 15:29:18.963 +05:30 [INF] Executing endpoint 'MegicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MegicVilla_VillaAPI)'
+2023-07-05 15:29:18.984 +05:30 [INF] Route matched with {action = "GetVillas", controller = "VillaAPI"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[MegicVilla_VillaAPI.Models.Dto.VillaDTO]] GetVillas() on controller MegicVilla_VillaAPI.Controllers.VillaAPIController (MegicVilla_VillaAPI).
+2023-07-05 15:29:18.988 +05:30 [INF] Get all villlas
+2023-07-05 15:29:18.998 +05:30 [WRN] No output formatter was found for content types '["text/plain"]' to write the response.
+2023-07-05 15:29:19.007 +05:30 [INF] Executed action MegicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MegicVilla_VillaAPI) in 16.706ms
+2023-07-05 15:29:19.008 +05:30 [INF] Executed endpoint 'MegicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MegicVilla_VillaAPI)'
+2023-07-05 15:29:19.008 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7144/api/VillaAPI - - - 406 0 - 54.9970ms
+2023-07-05 15:29:28.642 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7144/api/VillaAPI - -
+2023-07-05 15:29:28.642 +05:30 [INF] Executing endpoint 'MegicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MegicVilla_VillaAPI)'
+2023-07-05 15:29:28.643 +05:30 [INF] Route matched with {action = "GetVillas", controller = "VillaAPI"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[MegicVilla_VillaAPI.Models.Dto.VillaDTO]] GetVillas() on controller MegicVilla_VillaAPI.Controllers.VillaAPIController (MegicVilla_VillaAPI).
+2023-07-05 15:29:28.643 +05:30 [INF] Get all villlas
+2023-07-05 15:29:28.644 +05:30 [WRN] No output formatter was found for content types '["text/plain"]' to write the response.
+2023-07-05 15:29:28.645 +05:30 [INF] Executed action MegicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MegicVilla_VillaAPI) in 1.9123ms
+2023-07-05 15:29:28.645 +05:30 [INF] Executed endpoint 'MegicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MegicVilla_VillaAPI)'
+2023-07-05 15:29:28.645 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7144/api/VillaAPI - - - 406 0 - 3.7514ms
+2023-07-05 15:30:41.653 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7144/api/VillaAPI - -
+2023-07-05 15:30:41.658 +05:30 [INF] Executing endpoint 'MegicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MegicVilla_VillaAPI)'
+2023-07-05 15:30:41.660 +05:30 [INF] Route matched with {action = "GetVillas", controller = "VillaAPI"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[MegicVilla_VillaAPI.Models.Dto.VillaDTO]] GetVillas() on controller MegicVilla_VillaAPI.Controllers.VillaAPIController (MegicVilla_VillaAPI).
+2023-07-05 15:30:41.660 +05:30 [INF] Get all villlas
+2023-07-05 15:30:41.663 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MegicVilla_VillaAPI.Models.Dto.VillaDTO, MegicVilla_VillaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-07-05 15:30:41.856 +05:30 [INF] Executed action MegicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MegicVilla_VillaAPI) in 196.221ms
+2023-07-05 15:30:41.860 +05:30 [INF] Executed endpoint 'MegicVilla_VillaAPI.Controllers.VillaAPIController.GetVillas (MegicVilla_VillaAPI)'
+2023-07-05 15:30:41.862 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7144/api/VillaAPI - - - 200 163 application/json;+charset=utf-8 211.2095ms

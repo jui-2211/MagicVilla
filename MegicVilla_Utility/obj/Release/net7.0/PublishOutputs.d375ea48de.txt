@@ -1,0 +1,3 @@
+D:\PublishMvc\MegicVilla_Utility.dll
+D:\PublishMvc\MegicVilla_Utility.deps.json
+D:\PublishMvc\MegicVilla_Utility.pdb
